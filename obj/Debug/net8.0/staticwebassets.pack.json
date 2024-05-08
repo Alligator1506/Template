@@ -1,0 +1,625 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\source\\repo\\Template\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Template.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Template.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\LICENSE",
+      "PackagePath": "staticwebassets"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\README.md",
+      "PackagePath": "staticwebassets\\README.md"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\assets\\Abract01.png",
+      "PackagePath": "staticwebassets\\assets\\Abract01.png"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\assets\\Background-image-2.png",
+      "PackagePath": "staticwebassets\\assets\\Background-image-2.png"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\assets\\Background-image.png",
+      "PackagePath": "staticwebassets\\assets\\Background-image.png"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\assets\\Blog-post\\blog1.png",
+      "PackagePath": "staticwebassets\\assets\\Blog-post\\blog1.png"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\assets\\Blog-post\\blog2.png",
+      "PackagePath": "staticwebassets\\assets\\Blog-post\\blog2.png"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\assets\\Blog-post\\blog3.png",
+      "PackagePath": "staticwebassets\\assets\\Blog-post\\blog3.png"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\assets\\Blog-post\\blog4.png",
+      "PackagePath": "staticwebassets\\assets\\Blog-post\\blog4.png"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\assets\\Blog-post\\feature-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\Blog-post\\feature-img1.jpg"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\assets\\Blog-post\\post-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\Blog-post\\post-1.jpg"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\assets\\Blog-post\\post-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\Blog-post\\post-10.jpg"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\assets\\Blog-post\\post-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\Blog-post\\post-2.jpg"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\assets\\Blog-post\\post-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\Blog-post\\post-3.jpg"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\assets\\Blog-post\\post-4.png",
+      "PackagePath": "staticwebassets\\assets\\Blog-post\\post-4.png"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\assets\\Blog-post\\post-5.png",
+      "PackagePath": "staticwebassets\\assets\\Blog-post\\post-5.png"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\assets\\Blog-post\\post-6.png",
+      "PackagePath": "staticwebassets\\assets\\Blog-post\\post-6.png"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\assets\\Blog-post\\post-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\Blog-post\\post-7.jpg"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\assets\\Blog-post\\post-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\Blog-post\\post-8.jpg"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\assets\\Blog-post\\post-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\Blog-post\\post-9.jpg"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\assets\\instagram\\thumb-card3.png",
+      "PackagePath": "staticwebassets\\assets\\instagram\\thumb-card3.png"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\assets\\instagram\\thumb-card4.png",
+      "PackagePath": "staticwebassets\\assets\\instagram\\thumb-card4.png"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\assets\\instagram\\thumb-card5.png",
+      "PackagePath": "staticwebassets\\assets\\instagram\\thumb-card5.png"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\assets\\instagram\\thumb-card6.png",
+      "PackagePath": "staticwebassets\\assets\\instagram\\thumb-card6.png"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\assets\\instagram\\thumb-card7.png",
+      "PackagePath": "staticwebassets\\assets\\instagram\\thumb-card7.png"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\assets\\instagram\\thumb-card8.png",
+      "PackagePath": "staticwebassets\\assets\\instagram\\thumb-card8.png"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\assets\\popular-post\\m-blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\popular-post\\m-blog-1.jpg"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\assets\\popular-post\\m-blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\popular-post\\m-blog-2.jpg"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\assets\\popular-post\\m-blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\popular-post\\m-blog-3.jpg"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\assets\\popular-post\\m-blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\popular-post\\m-blog-4.jpg"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\assets\\popular-post\\m-blog-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\popular-post\\m-blog-5.jpg"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\css\\Style.css",
+      "PackagePath": "staticwebassets\\css\\Style.css"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\css\\all.css",
+      "PackagePath": "staticwebassets\\css\\all.css"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\css\\aos.css",
+      "PackagePath": "staticwebassets\\css\\aos.css"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\css\\fonts.css",
+      "PackagePath": "staticwebassets\\css\\fonts.css"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Abel\\Abel-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Abel\\Abel-Regular.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Abel\\OFL.txt",
+      "PackagePath": "staticwebassets\\fonts\\Abel\\OFL.txt"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Anton\\Anton-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Anton\\Anton-Regular.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Anton\\OFL.txt",
+      "PackagePath": "staticwebassets\\fonts\\Anton\\OFL.txt"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Josefin_Sans\\JosefinSans-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Josefin_Sans\\JosefinSans-Bold.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Josefin_Sans\\JosefinSans-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Josefin_Sans\\JosefinSans-BoldItalic.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Josefin_Sans\\JosefinSans-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Josefin_Sans\\JosefinSans-Light.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Josefin_Sans\\JosefinSans-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Josefin_Sans\\JosefinSans-LightItalic.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Josefin_Sans\\JosefinSans-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Josefin_Sans\\JosefinSans-Regular.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Josefin_Sans\\JosefinSans-RegularItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Josefin_Sans\\JosefinSans-RegularItalic.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Josefin_Sans\\JosefinSans-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Josefin_Sans\\JosefinSans-SemiBold.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Josefin_Sans\\JosefinSans-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Josefin_Sans\\JosefinSans-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Josefin_Sans\\JosefinSans-Thin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Josefin_Sans\\JosefinSans-Thin.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Josefin_Sans\\JosefinSans-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Josefin_Sans\\JosefinSans-ThinItalic.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Josefin_Sans\\OFL.txt",
+      "PackagePath": "staticwebassets\\fonts\\Josefin_Sans\\OFL.txt"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Lexend_Deca\\LexendDeca-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Lexend_Deca\\LexendDeca-Regular.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Lexend_Deca\\OFL.txt",
+      "PackagePath": "staticwebassets\\fonts\\Lexend_Deca\\OFL.txt"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Livvic\\Livvic-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Livvic\\Livvic-Black.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Livvic\\Livvic-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Livvic\\Livvic-BlackItalic.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Livvic\\Livvic-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Livvic\\Livvic-Bold.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Livvic\\Livvic-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Livvic\\Livvic-BoldItalic.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Livvic\\Livvic-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Livvic\\Livvic-ExtraLight.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Livvic\\Livvic-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Livvic\\Livvic-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Livvic\\Livvic-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Livvic\\Livvic-Light.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Livvic\\Livvic-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Livvic\\Livvic-LightItalic.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Livvic\\Livvic-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Livvic\\Livvic-Medium.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Livvic\\Livvic-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Livvic\\Livvic-MediumItalic.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Livvic\\Livvic-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Livvic\\Livvic-Regular.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Livvic\\Livvic-RegularItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Livvic\\Livvic-RegularItalic.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Livvic\\Livvic-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Livvic\\Livvic-SemiBold.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Livvic\\Livvic-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Livvic\\Livvic-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Livvic\\Livvic-Thin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Livvic\\Livvic-Thin.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Livvic\\Livvic-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Livvic\\Livvic-ThinItalic.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\fonts\\Livvic\\OFL.txt",
+      "PackagePath": "staticwebassets\\fonts\\Livvic\\OFL.txt"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\js\\Jquery3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\Jquery3.4.1.min.js"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\js\\aos.js",
+      "PackagePath": "staticwebassets\\js\\aos.js"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "E:\\source\\repo\\Template\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Template.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Template.props",
+      "PackagePath": "build\\Template.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Template.props",
+      "PackagePath": "buildMultiTargeting\\Template.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Template.props",
+      "PackagePath": "buildTransitive\\Template.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
